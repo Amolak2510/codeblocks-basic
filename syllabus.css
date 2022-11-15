@@ -1,0 +1,14 @@
+#top{text-align: center;font-size: 30px;font-weight: bold;}
+
+.show_material{
+    display: none;
+  }
+
+ .show:hover > .show_material{
+   display: block;
+   }
+
+
+.media:hover  .show_material{
+  display: block;
+}

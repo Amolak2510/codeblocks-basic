@@ -1,0 +1,9 @@
+#top{text-align: center;font-size: 30px;font-weight: bold;}
+table{margin: auto;font-weight :bold;text-align: center;}
+.row1 td{width: 100px;height: 50px;text-align: center;}
+table tr td:nth-child(1){height: 50px;width: 100px;}
+.lunch p{transform: rotate(90deg);}
+.row1 td:nth-child(1){width: 150px;}
+
+table tr:nth-child(1){background-color:gainsboro}
+table tr:nth-child(even){background-color:gainsboro}

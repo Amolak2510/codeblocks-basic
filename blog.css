@@ -1,0 +1,25 @@
+#top{text-align: center;font-size: 30px;font-weight: bold;}
+.head-container{
+    max-width:80%;
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+    margin:auto;
+ }
+ .head{
+    text-align : center; 
+    border: 2px solid blue;
+ }
+
+
+ .youtube-section{
+    padding-top:2rem;
+    display:flex;
+ }
+ .youtube-section p{
+    position: relative;
+    top: 100px;
+    left:40px;
+    text-align: center;
+    align-items: center;
+ }
